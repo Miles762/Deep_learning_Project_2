@@ -6,7 +6,7 @@ Our submisison achieved a competition score of 0.85500, ranking 26th out of 186 
 
 Files Included:
 
-test_unlabelled.pkl - the test set on which you will submit predictions
+test_unlabelled.pkl - the test set on which we submitted the predictions
 
 Final_Submission_Project_2.ipynb: Jupyter notebook detailing model training and evaluation
 
